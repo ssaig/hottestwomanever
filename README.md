@@ -1,0 +1,25 @@
+# hottestwomanever
+Fun site 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hottest Woman Ever</title>
+    <style>
+      body {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: black;
+      }
+      img {
+        max-width: 100%;
+        max-height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="https://your-image-url.com/pic.jpg" alt="Hottest Woman Ever">
+  </body>
+</html>
